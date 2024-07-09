@@ -1,1 +1,1 @@
-# luaScripting
+Lua sample scripting ideas
